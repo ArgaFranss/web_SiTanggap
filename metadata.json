@@ -1,0 +1,6 @@
+{
+  "name": "SiTanggap - Portal Lapor Warga & Tanggap Darurat",
+  "description": "Platform pelaporan kejadian darurat warga real-time dengan validasi foto cerdas, notifikasi status transparan, dan dashboard manajemen tiket untuk dinas pemerintah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
